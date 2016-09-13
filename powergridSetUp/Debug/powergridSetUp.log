@@ -1,0 +1,41 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (powergridSetUp.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Map.cpp
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(187): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(229): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(239): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(273): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(279): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(285): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(291): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(352): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(359): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(366): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(373): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(412): warning C4018: '>': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(419): warning C4018: '>': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(426): warning C4018: '>': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(433): warning C4018: '>': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(440): warning C4018: '>': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(447): warning C4018: '>': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(454): warning C4018: '>': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(461): warning C4018: '>': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(461): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(470): warning C4018: '>': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(477): warning C4018: '>': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(477): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(523): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(528): warning C4018: '<': signed/unsigned mismatch
+  Game_Execution.cpp
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\game_execution.cpp(96): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\game_execution.cpp(277): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\game_execution.cpp(302): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\game_execution.cpp(309): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\game_execution.cpp(347): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\game_execution.cpp(366): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\game_execution.cpp(418): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\game_execution.cpp(432): warning C4018: '<': signed/unsigned mismatch
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\game_execution.cpp(463): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\jacques\documents\visual studio 2015\projects\power grid final\powergridsetup\map.cpp(190): warning C4715: 'Map::setPlayerPlant': not all control paths return a value
+  powergridSetUp.vcxproj -> C:\Users\Jacques\Documents\Visual Studio 2015\Projects\Power grid final\Debug\Power Grid.exe

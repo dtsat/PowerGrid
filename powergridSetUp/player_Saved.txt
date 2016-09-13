@@ -1,0 +1,5 @@
+4
+0 Dave Green 40 3 18	3 0 3 4
+1 Kate Blue 55 4 17		3 1 2 8
+2 Leela Yellow 35 1 20	1 5 -1 -1
+3 Gally Red 20 5 16		2 7 9 -1
